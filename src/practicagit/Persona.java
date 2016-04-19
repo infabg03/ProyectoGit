@@ -18,6 +18,11 @@ public class Persona {
         this.nombre = nombre;
         this.edad = edad;
     }
+
+    public int getEdad() {
+        return edad;
+    }
+   
     
     
     
