@@ -23,7 +23,10 @@ public class Persona {
         return edad;
     }
    
-    
+    public void imprimoAlgo()
+    {
+        System.out.println("algo");
+    }
     
     
 }
